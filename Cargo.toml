@@ -1,0 +1,9 @@
+[package]
+name = "batch-gcd"
+version = "0.1.0"
+authors = ["iosmanthus <myosmanthustree@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rayon = "1.0.3"
+rug = "1.2.2"
